@@ -23,3 +23,4 @@ Step:
 4. setup password that can unlock protected pdf
 5. click Execute , expoted pdf files that can be found at step 2 destination directory
    
+InMethodProtectPDF.xml is configuration file used by launch4j to convert runnable jar file to windows  execute file
