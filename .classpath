@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/bcpkix-jdk15on-156.jar"/>
+	<classpathentry kind="lib" path="libs/bcprov-jdk15on-156.jar"/>
+	<classpathentry kind="lib" path="libs/InMethodTools-2.04-20221230.jar"/>
+	<classpathentry kind="lib" path="libs/itext7-font-asian-7.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/itext7-forms-7.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/itext7-io-7.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/itext7-kernel-7.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/itext7-layout-7.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/itext7-sign-7.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="libs/InMethodJakarta-3.3p1-20230310.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: inmethod.jakarta.pdf.gui.AppProtectPDF
+Class-Path: libs/bcpkix-jdk15on-156.jar libs/bcprov-jdk15on-156.jar libs
+ /InMethodJakarta-3.3p1-20230310.jar libs/InMethodTools-2.04-20221230.ja
+ r libs/itext7-font-asian-7.0.4.jar libs/itext7-forms-7.0.4.jar libs/ite
+ xt7-io-7.0.4.jar libs/itext7-kernel-7.0.4.jar libs/itext7-layout-7.0.4.
+ jar libs/itext7-sign-7.0.4.jar libs/slf4j-api-1.7.22.jar
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>.\build\libs\InMethodProtectPDF.jar</jar>
+  <outfile>.\build\libs\ProtectPDF.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>S:\developer\project\inmethod\java\InMethodProtectPDF\app.ico</icon>
+  <singleInstance>
+    <mutexName>InMethodEncryptPDF</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>inmethod.jakarta.pdf.gui.AppProtectPDF</mainClass>
+    <cp>libs/bcpkix-jdk15on-156.jar</cp>
+    <cp>libs/bcprov-jdk15on-156.jar</cp>
+    <cp>libs/InMethodJakarta-3.3p1-20230310.jar</cp>
+    <cp>libs/InMethodTools-2.04-20221230.jar</cp>
+    <cp>libs/itext7-font-asian-7.0.4.jar</cp>
+    <cp>libs/itext7-forms-7.0.4.jar</cp>
+    <cp>libs/itext7-io-7.0.4.jar</cp>
+    <cp>libs/itext7-kernel-7.0.4.jar</cp>
+    <cp>libs/itext7-layout-7.0.4.jar</cp>
+    <cp>libs/itext7-sign-7.0.4.jar</cp>
+    <cp>libs/slf4j-api-1.7.22.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>11</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

@@ -1,0 +1,13 @@
+2023/03/10
+--
+use launch4j convert jar to exe files
+
+2023/03/09
+--
+create runnable jar file
+java 11 or above
+
+
+2017/12/09
+--
+batch prevent PDF printing  
